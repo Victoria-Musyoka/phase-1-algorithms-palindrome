@@ -1,20 +1,12 @@
-function reversed(Word){
-  const wordArray=word.split("")
-  const reversedWordArray= wordArray.reverse()
-  const reversedWord= reversedWord.join("")
-  return reversedWord;
-}
 function isPalindrome(word) {
   // Write your algorithm here
 
-const reversedWord = reverse(word)
-if (word === reversedWord){
-  return true
-} else {
+if(word === isPalindrome){
+return true
+}else{
   return false
 }
 }
-
 
 /* 
   Add your pseudocode here
